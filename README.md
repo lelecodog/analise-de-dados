@@ -1,7 +1,7 @@
 # Analisando Dados com Python
 
 ## Objetivo do Projeto
-Este projeto tem como objetivo simuar a análise de dados relacionados ao cancelamento de clientes de uma empresa com mais de 800 mil clientes. A empresa identificou que uma grande parte de sua base de clientes é composta por usuários inativos, ou seja, que já cancelaram seus serviços. O desafio é entender os principais motivos desses cancelamentos e propor ações para reduzir esse número.
+Este projeto tem como objetivo simular a análise de dados relacionados ao cancelamento de clientes de uma empresa com mais de 800 mil clientes. A empresa identificou que uma grande parte de sua base de clientes é composta por usuários inativos, ou seja, que já cancelaram seus serviços. O desafio é entender os principais motivos desses cancelamentos e propor ações para reduzir esse número.
 
 ## Etapas do Projeto
 
